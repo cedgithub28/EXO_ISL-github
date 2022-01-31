@@ -14,3 +14,5 @@ if(menuHam != null && menuMain!= null) {
 else {
 	alert('un des deux éléments pas présents');
 }
+/*Voici mon commentaire 
+ */
